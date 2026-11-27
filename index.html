@@ -357,6 +357,13 @@ footer .wrap { display: grid; gap: 8px; }
       a.href = LINE_ADD_URL;
       a.target = "_blank";
       a.rel = "noopener";
+      // GA4: どのボタンから登録に進んだかを計測（流入元は utm_source で分かる）
+      a.addEventListener("click", () => {
+        if (typeof gtag === "function") {
+          const sec = a.closest("section[id], header, footer");
+          gtag("event", "sign_up", { method: "line", button_position: (sec && (sec.id || sec.tagName.toLowerCase())) || "unknown" });
+        }
+      });
     } else if (a.closest("#signup")) {
       a.textContent = "LINE登録は準備中です";
       a.setAttribute("aria-disabled", "true");

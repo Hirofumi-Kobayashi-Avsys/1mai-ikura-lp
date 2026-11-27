@@ -1,5 +1,21 @@
 # 1枚いくら 集客投稿テンプレート
 
+> **リンクは媒体ごとのURL（utm付き）を使う。** GA4 の「集客 > トラフィック獲得」で媒体別の訪問数、
+> イベント `sign_up`（LINEボタンのクリック）で媒体別の登録の数が分かる。
+>
+> | 媒体 | URL |
+> |------|-----|
+> | X | https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/?utm_source=x&utm_medium=social&utm_campaign=prelaunch |
+> | Instagram | https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/?utm_source=instagram&utm_medium=social&utm_campaign=prelaunch |
+> | Threads | https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/?utm_source=threads&utm_medium=social&utm_campaign=prelaunch |
+> | note | https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/?utm_source=note&utm_medium=article&utm_campaign=prelaunch |
+> | LINE OpenChat | https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/?utm_source=line_openchat&utm_medium=community&utm_campaign=prelaunch |
+>
+> **数字の書き方の約束**（LPの注記と食い違わないように）
+> - 「24%」などの差は *Yahoo!ショッピング調べ・ブランド単位（シリーズ違いを含む）・安い店＝下から10%目* の数字。言い切るときは注記を添える。
+> - 「54枚×3パック 5,280円」などの表は **説明用の例**。実際の調査結果として書かない。
+> - 「最安値」「必ず安い」などの断定はしない。
+
 ## X（Twitter）投稿案
 
 ### 投稿① 問題提起（リーチ狙い）
@@ -9,33 +25,33 @@
 
 私は毎回計算してたんですが、めちゃくちゃ面倒で。
 
-1枚あたりに直して比べると、同じブランドでも20%以上差がある
-ことがあります。
+1枚あたりに直して比べると、同じブランド・同じサイズでも
+お店によって2割ほど差がある品目がありました。
 
-それを毎日自動で調べてLINEで教えてくれるサービスを作りました。
+それを毎日自動で調べて、安い日にLINEで教えるサービスを作っています。
 無料です。
 
 ▼ 先行登録（LINE友だち追加）
-https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/
+https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/?utm_source=x&utm_medium=social&utm_campaign=prelaunch
 
 #育児 #おむつ #節約 #赤ちゃん #子育て
 ```
 
 ### 投稿② データ訴求
 ```
-【おむつ価格、こんなに差があります】
+【おむつの1枚の値段、お店でこんなに違います】
 
 グーン パンツM
 ・安い店：24.3円/枚
 ・真ん中：31.8円/枚
 → 差：約24%
 
-年間で換算すると数千円の差に。
+（11/27 Yahoo!ショッピング調べ。送料無料・ポイント差し引き後。
+シリーズ違いを含むブランド単位の比較）
 
-毎日自動で最安値を調べて、安くなった日だけLINEで教える
-無料サービスを先行登録受付中です。
+安い日だけLINEで教える無料サービス、先行登録受付中です。
 
-https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/
+https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/?utm_source=x&utm_medium=social&utm_campaign=prelaunch
 
 #おむつ #育児 #節約育児 #赤ちゃん
 ```
@@ -49,63 +65,90 @@ https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/
 
 そういう悩みを解決するサービスを作っています。
 
-楽天・Yahoo!のおむつ価格を毎日チェックして、
+おむつの価格を毎日チェックして、
 いつもより安い日にLINEでお知らせします（無料）。
 
 先行登録はこちら↓
-https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/
+https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/?utm_source=x&utm_medium=social&utm_campaign=prelaunch
 ```
+
+### 投稿④ 問いかけ型（返信を集める・リンクなし）
+```
+おむつを買うとき、何を基準に選んでますか？
+
+① いつものブランドを、いつものお店で
+② セールのときにまとめ買い
+③ 1枚いくらで計算して比べる
+④ 気にしてない
+
+育児中のみなさんの買い方、知りたいです。
+```
+※ リンクなし投稿は表示されやすい。返信が付いたら、そこに先行登録のリンクを返す。
 
 ---
 
 ## note 記事案
 
 ### タイトル
-「おむつは『1枚いくら』で選ぶと年間数千円得する話」
+「おむつは『1枚いくら』で選ぶと、年間で1万円くらい変わるかもしれない話」
 
 ### 本文
 ---
 
 おむつを買うとき、あなたはどうやって選んでいますか？
 
-「いつものブランドを、セールのときにまとめ買い」という方が多いと思います。でも実は、同じブランドのおむつでも、パックの組み方によって**1枚あたりの値段が最大で20%以上変わる**ことがあります。
+「いつものブランドを、セールのときにまとめ買い」という方が多いと思います。でも実は、同じおむつでも、パックの組み方やお店によって**1枚あたりの値段がかなり変わります**。
 
-#### なぜ値段が違うのか
+#### パックの組み方で、1枚の値段が変わる
 
-例えば「グーン パンツM」の場合：
+たとえば、こんな3つのセットがあったとします（説明のための例です）。
 
-| 商品 | 価格 | 枚数 | 1枚あたり |
+| セット | 価格 | 枚数 | 1枚あたり |
 |------|------|------|----------|
 | 54枚×3パック（セール） | 5,280円 | 162枚 | **32.6円** |
 | 58枚×4パック | 7,980円 | 232枚 | 34.4円 |
 | 62枚×3パック | 6,763円 | 186枚 | 36.4円 |
 
-同じグーンのMサイズなのに、1枚あたりで4円近く差があります。毎日10枚使うとすると、1ヶ月で1,200円の差。年間では**14,000円以上**の差になります。
+いちばん高いセットと安いセットの差は1枚あたり約3.8円。1日10枚使うとすると、1ヶ月で約1,100円、1年で約1万4千円になります。
+
+#### 実際のお店では、どれくらい違う？
+
+2026年11月27日に、Yahoo!ショッピングの出品を1枚あたりの値段に直して比べてみました（送料無料の出品のみ、ポイントを差し引いた値段）。
+
+| 品目 | 安い店 | 真ん中 | 差 |
+|------|------|------|----|
+| グーン パンツ M | 24.3円 | 31.8円 | 24% |
+| パンパース パンツ ビッグ | 47.5円 | 60.4円 | 21% |
+| メリーズ パンツ L | 35.4円 | 44.6円 | 21% |
+
+※「安い店」は安い順で下から10%目の出品。ブランド単位でまとめているので、シリーズ違いによる差も含みます。
 
 #### でも、毎日計算するのは無理
 
-セールのタイミングはバラバラで、パックの組み方も商品によって異なります。毎日楽天とYahoo!を見て、割り算して比べて…なんて続けられません。
+セールのタイミングはバラバラで、パックの組み方も商品によって異なります。毎日お店を見て、割り算して比べて…なんて続けられません。
 
-#### そこで作ったのが「1枚いくら」
+#### そこで作っているのが「1枚いくら」
 
-楽天・Yahoo!ショッピングのおむつ価格を毎日自動で取得し、1枚あたりの値段に直して最安値を探します。いつもより安くなった日だけ、LINEでお知らせします。
+おむつの価格を毎日自動で取得し、1枚あたりの値段に直して比べます。いつもより安くなった日だけ、LINEでお知らせします。
 
 現在、先行登録を受付中です（無料）。
 
-👉 https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/
+👉 https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/?utm_source=note&utm_medium=article&utm_campaign=prelaunch
 
 ---
 
 ## LINE OpenChat 投稿案（育児系グループ向け）
 
-```
-おむつの価格、1枚あたりで比べると同じブランドでも
-20%以上差があることを知って驚きました。
+> 宣伝禁止のルームが多いので、**ルールを確認し、管理人に許可を取ってから**投稿する。
 
-安い日を自動でお知らせするサービスを作ったので、
+```
+おむつの価格を1枚あたりで比べてみたら、同じブランド・サイズでも
+お店によって2割ほど差がある品目があって驚きました。
+
+安い日を自動でお知らせするサービスを作っているので、
 よかったら使ってみてください（無料・LINE登録のみ）。
 
-https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/
+https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/?utm_source=line_openchat&utm_medium=community&utm_campaign=prelaunch
 ```
 
 ---
