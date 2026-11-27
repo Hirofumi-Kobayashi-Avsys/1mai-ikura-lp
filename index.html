@@ -67,6 +67,7 @@ a { color: inherit; }
 .hero .wrap { display: grid; grid-template-columns: 1.1fr .9fr; gap: 48px; align-items: center; }
 .eyebrow { font-size: .85rem; letter-spacing: .08em; color: var(--muted); font-weight: 500; }
 .hero h1 { font-size: clamp(2rem, 5.2vw, 3.4rem); font-weight: 900; margin-top: 10px; }
+.hero h1 .nw { white-space: nowrap; }
 .hero h1 .hl { background: linear-gradient(transparent 62%, var(--tag) 62%); padding-inline: 2px; }
 .hero .lead { margin-top: 18px; font-size: 1.08rem; color: var(--muted); max-width: 34em; }
 .cta-row { margin-top: 28px; display: flex; gap: 14px; align-items: center; flex-wrap: wrap; }
@@ -180,7 +181,7 @@ footer .wrap { display: grid; gap: 8px; }
     <div class="wrap">
       <div>
         <p class="eyebrow">おむつの値段くらべ・無料</p>
-        <h1>おむつは<br><span class="hl">「1枚いくら」</span>で選ぶ。</h1>
+        <h1>おむつは<br><span class="hl">「1枚いくら」</span><span class="nw">で選ぶ。</span></h1>
         <p class="lead">58枚×3パックと64枚×4パック、どちらが安いか分かりますか。楽天・Yahoo!ショッピングのおむつを1枚あたりの値段にそろえて比べ、いつもより安い日にLINEでお知らせします。</p>
         <div class="cta-row">
           <a class="btn js-signup" href="#signup">先行登録する</a>
