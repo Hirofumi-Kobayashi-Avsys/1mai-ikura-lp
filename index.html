@@ -176,6 +176,11 @@ details p { margin-top: 10px; color: var(--muted); }
   background: var(--ink); color: var(--paper); border-radius: 16px; padding: 32px; }
 .signup .box p { color: inherit; opacity: .8; margin-top: 8px; }
 .signup .btn { background: var(--tag); color: var(--tag-ink); }
+.signup-actions { display: flex; align-items: center; gap: 24px; }
+.signup-qr { display: none; margin: 0; text-align: center; font-size: .75rem; }
+.signup-qr img { display: block; width: 120px; height: 120px; border-radius: 8px; background: #fff; padding: 6px; }
+.signup-qr figcaption { margin-top: 6px; opacity: .8; }
+@media (min-width: 821px) and (hover: hover) { .signup-qr { display: block; } }
 
 footer { padding-block: 32px 48px; font-size: .82rem; color: var(--muted); }
 footer .wrap { display: grid; gap: 8px; }
@@ -338,7 +343,13 @@ footer .wrap { display: grid; gap: 8px; }
           <h2>安い日を、見逃さない。</h2>
           <p class="js-signup-note">LINEで友だち追加すると、先行登録になります。</p>
         </div>
-        <a class="btn js-signup" href="#signup">LINEで先行登録する</a>
+        <div class="signup-actions">
+          <a class="btn js-signup" href="#signup">LINEで先行登録する</a>
+          <figure class="signup-qr">
+            <img src="marketing/line/line_qr_plain.png" width="120" height="120" alt="LINEで友だち追加するためのQRコード">
+            <figcaption>スマホで読み取る</figcaption>
+          </figure>
+        </div>
       </div>
     </div>
   </section>
