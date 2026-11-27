@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#fbfaf6"/>
+  <!-- アクセント帯 -->
+  <rect x="0" y="0" width="1200" height="8" fill="#ffd84d"/>
+  <!-- レシート風カード -->
+  <rect x="100" y="80" width="440" height="470" rx="6" fill="#fff" stroke="#e3e1d8" stroke-width="2"/>
+  <!-- ミシン目 -->
+  <line x1="100" y1="490" x2="540" y2="490" stroke="#e3e1d8" stroke-width="2" stroke-dasharray="12,8"/>
+  <!-- ロゴ -->
+  <rect x="136" y="118" width="52" height="52" rx="12" fill="#ffd84d" transform="rotate(-6,162,144)"/>
+  <text x="162" y="151" text-anchor="middle" font-family="monospace" font-size="28" font-weight="700" fill="#3a2e00">÷</text>
+  <text x="210" y="152" font-family="sans-serif" font-size="26" font-weight="900" fill="#1d2433">1枚いくら</text>
+  <!-- 区切り -->
+  <line x1="136" y1="186" x2="504" y2="186" stroke="#e3e1d8" stroke-width="1"/>
+  <!-- 商品行 -->
+  <text x="136" y="224" font-family="sans-serif" font-size="16" fill="#5d6576">グーン パンツ M</text>
+  <text x="504" y="224" text-anchor="end" font-family="monospace" font-size="18" font-weight="600" fill="#1d2433">24.3円/枚</text>
+  <line x1="136" y1="236" x2="504" y2="236" stroke="#e3e1d8" stroke-width="1" stroke-dasharray="6,4"/>
+  <text x="136" y="272" font-family="sans-serif" font-size="16" fill="#5d6576">パンパース パンツ L</text>
+  <text x="504" y="272" text-anchor="end" font-family="monospace" font-size="18" font-weight="600" fill="#1d2433">39.9円/枚</text>
+  <line x1="136" y1="284" x2="504" y2="284" stroke="#e3e1d8" stroke-width="1" stroke-dasharray="6,4"/>
+  <text x="136" y="320" font-family="sans-serif" font-size="16" fill="#5d6576">メリーズ パンツ L</text>
+  <text x="504" y="320" text-anchor="end" font-family="monospace" font-size="18" font-weight="600" fill="#1f8a5b">35.4円/枚</text>
+  <line x1="136" y1="332" x2="504" y2="332" stroke="#e3e1d8" stroke-width="1" stroke-dasharray="6,4"/>
+  <text x="136" y="368" font-family="sans-serif" font-size="16" fill="#5d6576">ムーニー テープ L</text>
+  <text x="504" y="368" text-anchor="end" font-family="monospace" font-size="18" font-weight="600" fill="#1d2433">41.2円/枚</text>
+  <line x1="136" y1="380" x2="504" y2="380" stroke="#e3e1d8" stroke-width="1" stroke-dasharray="6,4"/>
+  <!-- スタンプ -->
+  <rect x="300" y="400" width="160" height="48" rx="8" fill="none" stroke="#1f8a5b" stroke-width="3" transform="rotate(-6,380,424)"/>
+  <text x="380" y="431" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="700" fill="#1f8a5b" transform="rotate(-6,380,424)">いちばん安い</text>
+  <!-- 右側コピー -->
+  <text x="680" y="200" font-family="sans-serif" font-size="52" font-weight="900" fill="#1d2433">おむつは</text>
+  <text x="680" y="275" font-family="sans-serif" font-size="52" font-weight="900" fill="#1d2433">「1枚いくら」</text>
+  <rect x="678" y="285" width="390" height="14" rx="4" fill="#ffd84d" opacity="0.6"/>
+  <text x="680" y="340" font-family="sans-serif" font-size="52" font-weight="900" fill="#1d2433">で選ぶ。</text>
+  <text x="680" y="420" font-family="sans-serif" font-size="22" fill="#5d6576">安い日にLINEでお知らせ。</text>
+  <text x="680" y="455" font-family="sans-serif" font-size="22" fill="#5d6576">登録は無料。</text>
+  <!-- URL -->
+  <text x="600" y="590" text-anchor="middle" font-family="monospace" font-size="18" fill="#5d6576">1mai-ikura.vercel.app</text>
+</svg>
