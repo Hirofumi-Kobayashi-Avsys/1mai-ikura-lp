@@ -1,0 +1,58 @@
+# 追跡する商品のマスタ定義
+# count_min/count_max: 商品名から抽出した枚数がこの範囲外なら除外（異サイズ混入防止）
+ITEMS = [
+    {
+        "id": "goon_pants_m",
+        "label": "グーン パンツ M",
+        "brand": "グーン",
+        "query_yahoo": "グーン パンツ M",
+        "query_rakuten": "グーン パンツ M",
+        "count_min": 40,
+        "count_max": 300,
+    },
+    {
+        "id": "pampers_pants_big",
+        "label": "パンパース パンツ ビッグ",
+        "brand": "パンパース",
+        "query_yahoo": "パンパース パンツ ビッグ",
+        "query_rakuten": "パンパース パンツ ビッグ",
+        "count_min": 30,
+        "count_max": 200,
+    },
+    {
+        "id": "merries_pants_l",
+        "label": "メリーズ パンツ L",
+        "brand": "メリーズ",
+        "query_yahoo": "メリーズ パンツ L",
+        "query_rakuten": "メリーズ パンツ L",
+        "count_min": 40,
+        "count_max": 280,
+    },
+    {
+        "id": "moony_tape_l",
+        "label": "ムーニー テープ L",
+        "brand": "ムーニー",
+        "query_yahoo": "ムーニー テープ L",
+        "query_rakuten": "ムーニー テープ L",
+        "count_min": 40,
+        "count_max": 280,
+    },
+    {
+        "id": "moony_pants_m",
+        "label": "ムーニー パンツ M",
+        "brand": "ムーニー",
+        "query_yahoo": "ムーニー パンツ M",
+        "query_rakuten": "ムーニー パンツ M",
+        "count_min": 40,
+        "count_max": 280,
+    },
+    {
+        "id": "pampers_pants_l",
+        "label": "パンパース パンツ L",
+        "brand": "パンパース",
+        "query_yahoo": "パンパース パンツ L",
+        "query_rakuten": "パンパース パンツ L",
+        "count_min": 40,
+        "count_max": 280,
+    },
+]
