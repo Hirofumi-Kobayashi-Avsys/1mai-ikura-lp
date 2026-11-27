@@ -36,5 +36,6 @@ jobs:
       - name: 価格を取得してDBに保存
         env:
           YAHOO_APP_ID: ${{ secrets.YAHOO_APP_ID }}
+          LINE_CHANNEL_TOKEN: ${{ secrets.LINE_CHANNEL_TOKEN }}
           PYTHONUTF8: '1'
         run: python main.py
