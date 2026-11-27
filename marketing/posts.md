@@ -5,11 +5,11 @@
 >
 > | 媒体 | URL |
 > |------|-----|
-> | X | https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/?utm_source=x&utm_medium=social&utm_campaign=prelaunch |
-> | Instagram | https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/?utm_source=instagram&utm_medium=social&utm_campaign=prelaunch |
-> | Threads | https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/?utm_source=threads&utm_medium=social&utm_campaign=prelaunch |
-> | note | https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/?utm_source=note&utm_medium=article&utm_campaign=prelaunch |
-> | LINE OpenChat | https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/?utm_source=line_openchat&utm_medium=community&utm_campaign=prelaunch |
+> | X | https://add-value-sys.github.io/1mai-ikura-lp/?utm_source=x&utm_medium=social&utm_campaign=prelaunch |
+> | Instagram | https://add-value-sys.github.io/1mai-ikura-lp/?utm_source=instagram&utm_medium=social&utm_campaign=prelaunch |
+> | Threads | https://add-value-sys.github.io/1mai-ikura-lp/?utm_source=threads&utm_medium=social&utm_campaign=prelaunch |
+> | note | https://add-value-sys.github.io/1mai-ikura-lp/?utm_source=note&utm_medium=article&utm_campaign=prelaunch |
+> | LINE OpenChat | https://add-value-sys.github.io/1mai-ikura-lp/?utm_source=line_openchat&utm_medium=community&utm_campaign=prelaunch |
 >
 > **数字の書き方の約束**（LPの注記と食い違わないように）
 > - 「24%」などの差は *Yahoo!ショッピング調べ・ブランド単位（シリーズ違いを含む）・安い店＝下から10%目* の数字。言い切るときは注記を添える。
@@ -32,7 +32,7 @@
 無料です。
 
 ▼ 先行登録（LINE友だち追加）
-https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/?utm_source=x&utm_medium=social&utm_campaign=prelaunch
+https://add-value-sys.github.io/1mai-ikura-lp/?utm_source=x&utm_medium=social&utm_campaign=prelaunch
 
 #育児 #おむつ #節約 #赤ちゃん #子育て
 ```
@@ -51,7 +51,7 @@ https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/?utm_source=x&utm_mediu
 
 安い日だけLINEで教える無料サービス、先行登録受付中です。
 
-https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/?utm_source=x&utm_medium=social&utm_campaign=prelaunch
+https://add-value-sys.github.io/1mai-ikura-lp/?utm_source=x&utm_medium=social&utm_campaign=prelaunch
 
 #おむつ #育児 #節約育児 #赤ちゃん
 ```
@@ -69,7 +69,7 @@ https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/?utm_source=x&utm_mediu
 いつもより安い日にLINEでお知らせします（無料）。
 
 先行登録はこちら↓
-https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/?utm_source=x&utm_medium=social&utm_campaign=prelaunch
+https://add-value-sys.github.io/1mai-ikura-lp/?utm_source=x&utm_medium=social&utm_campaign=prelaunch
 ```
 
 ### 投稿④ 問いかけ型（返信を集める・リンクなし）
@@ -133,7 +133,7 @@ https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/?utm_source=x&utm_mediu
 
 現在、先行登録を受付中です（無料）。
 
-👉 https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/?utm_source=note&utm_medium=article&utm_campaign=prelaunch
+👉 https://add-value-sys.github.io/1mai-ikura-lp/?utm_source=note&utm_medium=article&utm_campaign=prelaunch
 
 ---
 
@@ -148,7 +148,7 @@ https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/?utm_source=x&utm_mediu
 安い日を自動でお知らせするサービスを作っているので、
 よかったら使ってみてください（無料・LINE登録のみ）。
 
-https://hirofumi-kobayashi-avsys.github.io/1mai-ikura-lp/?utm_source=line_openchat&utm_medium=community&utm_campaign=prelaunch
+https://add-value-sys.github.io/1mai-ikura-lp/?utm_source=line_openchat&utm_medium=community&utm_campaign=prelaunch
 ```
 
 ---
